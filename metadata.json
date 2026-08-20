@@ -1,0 +1,6 @@
+{
+  "name": "AeroGuard VIP",
+  "description": "Plataforma de seguridad ejecutiva, seguimiento de vuelos y concierge VIP para viajes corporativos de alto nivel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
